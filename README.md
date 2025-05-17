@@ -19,7 +19,7 @@ Designed for devs, designers, and tinkerers who love clean design and instant ac
 - 🌙 Dark mode ready
 - 🔍 Search bar with optional shortcuts
 - 🔗 Quick access links to favorite sites
-- ⏰ Live clock and date
+- ⏰ Live clock and date ( 12 hour clock format )
 - 💅 Fully customizable layout and style
 - 🌐 Works offline – great for local setup
 

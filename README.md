@@ -29,7 +29,7 @@ Designed for devs, designers, and tinkerers who love clean design and instant ac
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/sparshabhusal/startpage
+   git clone https://github.com/sparshabhusal/startpage.git
 
 2 . Open index.html in your browser.
 

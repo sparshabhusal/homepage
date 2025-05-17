@@ -1,16 +1,20 @@
-// 🕒 Clock
+// 🕒 12-Hour Clock
 function updateClock() {
   const now = new Date();
-  const hours = String(now.getHours()).padStart(2, '0');
+  let hours = now.getHours();
   const minutes = String(now.getMinutes()).padStart(2, '0');
-  document.getElementById('clock').textContent = `${hours}:${minutes}`;
+  const ampm = hours >= 12 ? 'PM' : 'AM';
+
+  hours = hours % 12;
+  hours = hours ? hours : 12; // hour '0' should be '12'
+
+  document.getElementById('clock').textContent = `${hours}:${minutes} ${ampm}`;
 }
 
-// Run clock every second
 updateClock();
 setInterval(updateClock, 1000);
 
-// 🔍 Search Handler
+// 🔍 Search
 function search(event) {
   if (event.key === 'Enter') {
     const query = event.target.value.trim();
@@ -20,4 +24,3 @@ function search(event) {
     }
   }
 }
-

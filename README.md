@@ -35,9 +35,9 @@ Designed for devs, designers, and tinkerers who love clean design and instant ac
 
    -(Optional) Set it as your homepage in browser settings:
 
-     Firefox: Preferences → Home → Homepage and new windows
+   Firefox: Preferences → Home → Homepage and new windows
 
-     Chrome: Settings → On startup → Open a specific page
+   Chrome: Settings → On startup → Open a specific page
 
 ## 🎯 Why?
 I built this to match my minimalist workflow on Linux + Tiling WMs.  

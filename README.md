@@ -9,7 +9,7 @@ Designed for devs, designers, and tinkerers who love clean design and instant ac
 
 ## 🖼️ Preview
 
-![Startpage Screenshot](preview.png)
+![Startpage Screenshot](./assets/preview.png)
 
 ---
 

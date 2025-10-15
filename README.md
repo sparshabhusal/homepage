@@ -27,9 +27,9 @@ Designed for devs, designers, and tinkerers who love clean design and instant ac
 
 ## 🚀 Usage
 
-1. **Clone this repository:**
+1. **Copy This:**
    ```bash
-   git clone https://github.com/sparshabhusal/homepage.git
+   sparshabhusal.github.io/homepage
 
 2 . Open index.html in your browser.
 
